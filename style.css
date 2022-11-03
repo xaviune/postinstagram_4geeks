@@ -1,0 +1,53 @@
+body{
+    background:black;
+}
+.post{
+    width: 450px;
+    height: 800px;
+    background: white;
+    margin: 0 auto;
+}
+.namepost{
+    
+}
+.postheader{
+    background:white;
+    display: inline-block;
+}
+h1{
+font-size:15px;
+}
+.postheader{
+    width:450px;
+    height:150px;
+}
+.tittlepost{
+    padding-left: 3px;
+}
+.setings{
+    float:right;
+}
+img{
+    width:450px;
+    height:450px;
+}
+.postfooter{
+    width:450px;
+    height:300px;
+}
+i {
+    display:block;
+    margin: 0 2px;
+}
+icons{
+    display:inline-block;
+}
+span{
+    font-weight: bold;
+}
+.iconsright{
+    float:right;
+}
+.icon-left{
+    float:left;
+}
